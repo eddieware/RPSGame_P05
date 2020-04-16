@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  RPSGame_P05
+//  P_03_RPSGame
 //
 //  Created by EDUARDO MEJIA on 16/04/20.
 //  Copyright © 2020 EDDIEWARE. All rights reserved.
@@ -42,7 +42,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
          application to it. This property is optional since there are legitimate
          error conditions that could cause the creation of the store to fail.
         */
-        let container = NSPersistentContainer(name: "RPSGame_P05")
+        let container = NSPersistentContainer(name: "P_03_RPSGame")
         container.loadPersistentStores(completionHandler: { (storeDescription, error) in
             if let error = error as NSError? {
                 // Replace this implementation with code to handle the error appropriately.

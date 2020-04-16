@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  RPSGame_P05
+//  P_03_RPSGame
 //
 //  Created by EDUARDO MEJIA on 16/04/20.
 //  Copyright © 2020 EDDIEWARE. All rights reserved.
